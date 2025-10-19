@@ -67,22 +67,22 @@
 
 /* Custom font face for Biennale */
 @font-face {
-  font-family: 'Biennale';
-  src: local('Helvetica Neue'), local('Arial'), local('sans-serif');
+  font-family: "Biennale";
+  src: local("Helvetica Neue"), local("Arial"), local("sans-serif");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Biennale';
-  src: local('Helvetica Neue'), local('Arial'), local('sans-serif');
+  font-family: "Biennale";
+  src: local("Helvetica Neue"), local("Arial"), local("sans-serif");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Biennale';
-  src: local('Helvetica Neue'), local('Arial'), local('sans-serif');
+  font-family: "Biennale";
+  src: local("Helvetica Neue"), local("Arial"), local("sans-serif");
   font-weight: 700;
   font-style: normal;
 }
